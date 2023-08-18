@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**notAnii/notAnii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="border: none;"  valign="top">
+      <img align="left" src="/Assets/banner1.png" alt="Metrics" width="450">
+      </br></br></br>
+      <img align="left" src="/github-metrics.svg" alt="Metrics" width="400">
+    </td>
+    <td style="border: none;"  valign="top">
+      <img align="left" src="/Assets/banner2.png" alt="Metrics" width="450">
+      </br></br></br>
+      <img align="left" src="/github-metrics-2.svg" alt="Metrics" width="400">
+    </td>
+  </tr>
+</table>
